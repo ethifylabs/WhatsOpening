@@ -5,7 +5,7 @@ This application utlizes FOAM contracts and api for POIs and has a second contra
 You can find APKs [here](https://github.com/Abhimanyu121/ColorCoded-FOAM-Maps/releases/tag/V1).
 
 ## Traction so Far
-This application got featured in Community newsletters of FOAM mentioning how Layer 2 for UX, you can ping me or FOAM team for a copy of newsletter.
+This application got featured in Community newsletters of FOAM mentioning how Layer 2 for UX works like a charm, you can ping me or FOAM team for a copy of newsletter.
 ## Video
 You can find a small video made by FOAM team demonstrating all the features of the application (some of the features are on Rinkeby and others on BSC). [here](https://vimeo.com/452450616).</br>
 ## Reason for making it a mobile app
