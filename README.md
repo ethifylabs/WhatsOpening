@@ -1,6 +1,6 @@
 # What's Opening
 Flutter based Mobile application for FOAM Maps.<br/></br>
-<img src="assets/blumark.png" width="100" height="120"><t/><t/><t/><img src="https://icodrops.com/wp-content/uploads/2018/06/yT_5Hap9_400x400.png" width="120" height="150"><br/></br>
+<img src="assets/blumark.png" width="100" height="120"><t/><t/><t/>
 This application utlizes FOAM contracts and api for POIs and has a second contract on Binance Smart Chain for reporting opening and closing times. Binance smart chain has been chosen to reduce onboarding fiction, lesser amount of gas fee can be easily handled with gas stations. Users can check and report opening and closing times without having any foam tokens or eth.</br>
 You can find APKs [here](https://github.com/Abhimanyu121/ColorCoded-FOAM-Maps/releases/tag/V1).
 
